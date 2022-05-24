@@ -55,7 +55,7 @@ layout: home
         <li>Tim Roughgarden, Columbia University</li>
         <li>Clara Shikhelman, Chaincode Labs</li>
         <li>Yupeng Zhang, Texas A&M University</li>
-        <li>Fan Zhang, Duke</li>
+        <li>Fan Zhang, Duke University</li>
     </ul>
 </div>
 <div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
