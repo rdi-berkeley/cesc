@@ -48,11 +48,14 @@ layout: home
         <li>Juan Garay, Texas A&M University</li>
         <li>Philipp Jovanovic, University College London</li>
         <li>Dahlia Malkhi, ChainLink Labs</li>
+        <li>Patrick McCorry, Infura</li>
+        <li>Andrew Miller, UIUC</li>
         <li>Christine Parlour, UC Berkeley</li>
         <li>Ling Ren, UIUC</li>
         <li>Tim Roughgarden, Columbia University</li>
         <li>Clara Shikhelman, Chaincode Labs</li>
         <li>Yupeng Zhang, Texas A&M University</li>
+        <li>Fan Zhang, Duke</li>
     </ul>
 </div>
 <div style="text-align: left; color: #18233D; width: 100%; margin: auto;">
